@@ -1,5 +1,10 @@
-- 👋 Merhaba Ben **@furkanmeclis**
-- 👀 Ben Daha Çok Web Tasarımla İlgilenirim
-- 🌱 Şuanda JavaScript Framework u Olan **Vue JS** öğreniyorum
-- 📫 Bana Mesaj [Bırak](https://www.furkanmeclis.online/#3)
-
+Merhaba Ben Furkan Meclis Web Tasarımla İlgilenirim.
+Php,Html,Css,Javascript Üzerinde Çalışmalarımı Devam Ettiriyorum
+- Php
+  - Nesne Yönelimli Kodlama
+  - [Yönlendirme Sınıfı](https://furkanmeclis.github.io/php-router/)
+- Javascript
+  - Vue Js
+  - Nuxt Js
+  - React
+  - Next Js
