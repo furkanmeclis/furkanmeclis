@@ -19,3 +19,4 @@ jobs:
           # falls back to the built-in token (public data only).
           token: ${{ secrets.README_FORGE_TOKEN || github.token }}
           themes: midnight,light
+          cards: stats,languages,activity
