@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="240" viewBox="0 0 500 240" role="img" aria-labelledby="rf-stats-t rf-stats-d">
 <title id="rf-stats-t">Furkan Meclis&#39;s GitHub stats</title>
-<desc id="rf-stats-d">Stars 7, commits 3766, pull requests 426, issues 6, level S</desc>
+<desc id="rf-stats-d">Stars 7, commits 3773, pull requests 434, issues 6, level S</desc>
 <style>svg{--bg1:#0d1117;--bg2:#161b2e;--border:#30363d;--title:#ff4d8d;--text:#e6edf3;--muted:#8b949e;--accent:#ff4d8d;--accent2:#7c5cff;--track:#21262d;--grid:#1f2633;}
 text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:var(--text)}
 .title{font-size:17px;font-weight:700;fill:var(--title)}
@@ -49,7 +49,7 @@ text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue'
 <g class="fade" style="animation-delay:330ms">
 <g transform="translate(24 110) scale(1)" fill="none" stroke-width="1.40" stroke-linecap="round" style="stroke:var(--accent);color:var(--accent)"><circle cx="4" cy="3.5" r="1.8"/><circle cx="4" cy="12.5" r="1.8"/><circle cx="12" cy="12.5" r="1.8"/><path d="M4 5.3v5.4M12 10.7V6.5a2 2 0 0 0-2-2H7.5M9 3 7.5 4.5 9 6"/></g>
 <text x="48" y="122" class="label">Pull Requests</text>
-<text x="172" y="122" class="value" text-anchor="end">426</text>
+<text x="172" y="122" class="value" text-anchor="end">434</text>
 </g>
 <g class="fade" style="animation-delay:420ms">
 <g transform="translate(184 110) scale(1)" fill="none" stroke-width="1.40" stroke-linecap="round" style="stroke:var(--accent);color:var(--accent)"><circle cx="8" cy="8" r="6.3"/><circle cx="8" cy="8" r="1.2" fill="currentColor" stroke="none"/></g>
@@ -69,14 +69,14 @@ text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue'
 <g class="fade" style="animation-delay:100ms">
 <circle cx="400" cy="124" r="46" fill="none" style="stroke:var(--track)" stroke-width="9"/>
 <circle class="ring" cx="400" cy="124" r="46" fill="none" stroke="url(#rf-stats-accent)" stroke-width="9" stroke-linecap="round"
-  stroke-dasharray="289.03" stroke-dashoffset="5.59" transform="rotate(-90 400 124)" filter="url(#rf-stats-soft)"/>
+  stroke-dasharray="289.03" stroke-dashoffset="5.45" transform="rotate(-90 400 124)" filter="url(#rf-stats-soft)"/>
 <text x="400" y="133" class="big" font-size="30" text-anchor="middle">S</text>
 <text x="400" y="150" class="label" font-size="9" text-anchor="middle" letter-spacing="2">LEVEL</text>
 </g>
 <g class="fade" style="animation-delay:750ms">
 <line x1="24" x2="460" y1="190" y2="190" style="stroke:var(--grid)"/>
 <g transform="translate(24 199) scale(0.875)" fill="none" stroke-width="1.60" stroke-linecap="round" style="stroke:var(--accent);color:var(--accent)"><path d="M9 1.5 3.5 9H8l-1 5.5L12.5 7H8z" stroke-linejoin="round"/></g>
-<text x="44" y="210" class="sub"><tspan class="value" font-size="12">4,243</tspan> contributions in the last year · <tspan class="value" font-size="12">5</tspan> followers</text>
+<text x="44" y="210" class="sub"><tspan class="value" font-size="12">4,258</tspan> contributions in the last year · <tspan class="value" font-size="12">5</tspan> followers</text>
 </g>
 </g>
 </svg>
