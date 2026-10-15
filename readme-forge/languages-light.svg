@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="240" viewBox="0 0 500 240" role="img" aria-labelledby="rf-langs-t rf-langs-d">
 <title id="rf-langs-t">Most Used Languages</title>
-<desc id="rf-langs-d">TypeScript 46.5%, PHP 18.9%, Go 13.6%, Blade 6.9%, JavaScript 6.2%, CSS 5.8%, XSLT 0.5%, SCSS 0.3%, Other 1.3%</desc>
+<desc id="rf-langs-d">TypeScript 46.4%, PHP 18.8%, Go 13.9%, Blade 6.8%, JavaScript 6.2%, CSS 5.8%, XSLT 0.5%, SCSS 0.3%, Other 1.3%</desc>
 <style>svg{--bg1:#ffffff;--bg2:#f4f1fb;--border:#d0d7de;--title:#d6336c;--text:#1f2328;--muted:#656d76;--accent:#d6336c;--accent2:#6741d9;--track:#eaeef2;--grid:#eef0f3;}
 text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:var(--text)}
 .title{font-size:17px;font-weight:700;fill:var(--title)}
@@ -41,19 +41,19 @@ text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue'
 <circle cx="104" cy="137" r="56" fill="none" style="stroke:var(--track)" stroke-width="18"/>
 <circle class="seg" style="stroke:#3178c6;animation-delay:200ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="160.61 191.24" stroke-dashoffset="0.00"
+  stroke-dasharray="160.26 191.60" stroke-dashoffset="0.00"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#4F5D95;animation-delay:310ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="63.50 288.36" stroke-dashoffset="-163.61"
+  stroke-dasharray="63.15 288.71" stroke-dashoffset="-163.26"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#00ADD8;animation-delay:420ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="44.85 307.01" stroke-dashoffset="-230.12"
+  stroke-dasharray="45.91 305.95" stroke-dashoffset="-229.41"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#f7523f;animation-delay:530ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="21.28 330.58" stroke-dashoffset="-277.97"
+  stroke-dasharray="20.93 330.93" stroke-dashoffset="-278.32"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#f1e05a;animation-delay:640ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
@@ -76,36 +76,36 @@ text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue'
   stroke-dasharray="1.57 350.28" stroke-dashoffset="-347.28"
   transform="rotate(-90 104 137)"/>
 <g class="fade" style="animation-delay:500ms">
-<text x="104" y="139" class="big" font-size="22" text-anchor="middle">47%</text>
+<text x="104" y="139" class="big" font-size="22" text-anchor="middle">46%</text>
 <text x="104" y="157" class="label" font-size="11" text-anchor="middle">TypeScript</text>
 </g>
 <g class="fade" style="animation-delay:250ms">
 <circle cx="205" cy="78" r="5" style="fill:#3178c6"/>
 <text x="217" y="82" class="label" style="fill:var(--text)">TypeScript</text>
-<text x="217" y="96" class="sub" font-size="10.5">46.5%</text>
+<text x="217" y="96" class="sub" font-size="10.5">46.4%</text>
 <rect x="256" y="91" width="60" height="3" rx="1.5" style="fill:var(--track)"/>
 <rect class="bar" x="256" y="91" width="60.0" height="3" rx="1.5" style="fill:#3178c6;animation-delay:400ms"/>
 </g>
 <g class="fade" style="animation-delay:320ms">
 <circle cx="345" cy="78" r="5" style="fill:#4F5D95"/>
 <text x="357" y="82" class="label" style="fill:var(--text)">PHP</text>
-<text x="357" y="96" class="sub" font-size="10.5">18.9%</text>
+<text x="357" y="96" class="sub" font-size="10.5">18.8%</text>
 <rect x="396" y="91" width="60" height="3" rx="1.5" style="fill:var(--track)"/>
-<rect class="bar" x="396" y="91" width="24.4" height="3" rx="1.5" style="fill:#4F5D95;animation-delay:470ms"/>
+<rect class="bar" x="396" y="91" width="24.3" height="3" rx="1.5" style="fill:#4F5D95;animation-delay:470ms"/>
 </g>
 <g class="fade" style="animation-delay:390ms">
 <circle cx="205" cy="108" r="5" style="fill:#00ADD8"/>
 <text x="217" y="112" class="label" style="fill:var(--text)">Go</text>
-<text x="217" y="126" class="sub" font-size="10.5">13.6%</text>
+<text x="217" y="126" class="sub" font-size="10.5">13.9%</text>
 <rect x="256" y="121" width="60" height="3" rx="1.5" style="fill:var(--track)"/>
-<rect class="bar" x="256" y="121" width="17.5" height="3" rx="1.5" style="fill:#00ADD8;animation-delay:540ms"/>
+<rect class="bar" x="256" y="121" width="18.0" height="3" rx="1.5" style="fill:#00ADD8;animation-delay:540ms"/>
 </g>
 <g class="fade" style="animation-delay:460ms">
 <circle cx="345" cy="108" r="5" style="fill:#f7523f"/>
 <text x="357" y="112" class="label" style="fill:var(--text)">Blade</text>
-<text x="357" y="126" class="sub" font-size="10.5">6.9%</text>
+<text x="357" y="126" class="sub" font-size="10.5">6.8%</text>
 <rect x="396" y="121" width="60" height="3" rx="1.5" style="fill:var(--track)"/>
-<rect class="bar" x="396" y="121" width="8.9" height="3" rx="1.5" style="fill:#f7523f;animation-delay:610ms"/>
+<rect class="bar" x="396" y="121" width="8.8" height="3" rx="1.5" style="fill:#f7523f;animation-delay:610ms"/>
 </g>
 <g class="fade" style="animation-delay:530ms">
 <circle cx="205" cy="138" r="5" style="fill:#f1e05a"/>
