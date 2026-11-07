@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="240" viewBox="0 0 500 240" role="img" aria-labelledby="rf-langs-t rf-langs-d">
 <title id="rf-langs-t">Most Used Languages</title>
-<desc id="rf-langs-d">TypeScript 47.3%, Go 18.1%, PHP 15.6%, Blade 5.6%, JavaScript 5.3%, CSS 4.9%, Swift 0.8%, XSLT 0.4%, Other 1.8%</desc>
+<desc id="rf-langs-d">TypeScript 47.4%, Go 18.1%, PHP 15.6%, Blade 5.6%, JavaScript 5.3%, CSS 4.9%, Swift 0.8%, XSLT 0.4%, Other 1.8%</desc>
 <style>svg{--bg1:#ffffff;--bg2:#f4f1fb;--border:#d0d7de;--title:#d6336c;--text:#1f2328;--muted:#656d76;--accent:#d6336c;--accent2:#6741d9;--track:#eaeef2;--grid:#eef0f3;}
 text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:var(--text)}
 .title{font-size:17px;font-weight:700;fill:var(--title)}
@@ -41,39 +41,39 @@ text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue'
 <circle cx="104" cy="137" r="56" fill="none" style="stroke:var(--track)" stroke-width="18"/>
 <circle class="seg" style="stroke:#3178c6;animation-delay:200ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="163.43 188.43" stroke-dashoffset="0.00"
+  stroke-dasharray="163.78 188.08" stroke-dashoffset="0.00"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#00ADD8;animation-delay:310ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="60.69 291.17" stroke-dashoffset="-166.43"
+  stroke-dasharray="60.69 291.17" stroke-dashoffset="-166.78"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#4F5D95;animation-delay:420ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="51.89 299.97" stroke-dashoffset="-230.12"
+  stroke-dasharray="51.89 299.97" stroke-dashoffset="-230.47"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#f7523f;animation-delay:530ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="16.70 335.15" stroke-dashoffset="-285.01"
+  stroke-dasharray="16.70 335.15" stroke-dashoffset="-285.36"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#f1e05a;animation-delay:640ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="15.65 336.21" stroke-dashoffset="-304.71"
+  stroke-dasharray="15.65 336.21" stroke-dashoffset="-305.06"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#663399;animation-delay:750ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="14.24 337.62" stroke-dashoffset="-323.36"
+  stroke-dasharray="14.24 337.62" stroke-dashoffset="-323.71"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#F05138;animation-delay:860ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="0.50 351.36" stroke-dashoffset="-340.60"
+  stroke-dasharray="0.50 351.36" stroke-dashoffset="-340.95"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#EB8CEB;animation-delay:970ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="0.50 351.36" stroke-dashoffset="-343.41"
+  stroke-dasharray="0.50 351.36" stroke-dashoffset="-343.77"
   transform="rotate(-90 104 137)"/>
 <circle class="seg" style="stroke:#8b949e;animation-delay:1080ms"
   cx="104" cy="137" r="56" fill="none" stroke-width="18"
-  stroke-dasharray="3.33 348.52" stroke-dashoffset="-344.82"
+  stroke-dasharray="3.33 348.52" stroke-dashoffset="-345.17"
   transform="rotate(-90 104 137)"/>
 <g class="fade" style="animation-delay:500ms">
 <text x="104" y="139" class="big" font-size="22" text-anchor="middle">47%</text>
@@ -82,7 +82,7 @@ text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue'
 <g class="fade" style="animation-delay:250ms">
 <circle cx="205" cy="78" r="5" style="fill:#3178c6"/>
 <text x="217" y="82" class="label" style="fill:var(--text)">TypeScript</text>
-<text x="217" y="96" class="sub" font-size="10.5">47.3%</text>
+<text x="217" y="96" class="sub" font-size="10.5">47.4%</text>
 <rect x="256" y="91" width="60" height="3" rx="1.5" style="fill:var(--track)"/>
 <rect class="bar" x="256" y="91" width="60.0" height="3" rx="1.5" style="fill:#3178c6;animation-delay:400ms"/>
 </g>
@@ -91,14 +91,14 @@ text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue'
 <text x="357" y="82" class="label" style="fill:var(--text)">Go</text>
 <text x="357" y="96" class="sub" font-size="10.5">18.1%</text>
 <rect x="396" y="91" width="60" height="3" rx="1.5" style="fill:var(--track)"/>
-<rect class="bar" x="396" y="91" width="23.0" height="3" rx="1.5" style="fill:#00ADD8;animation-delay:470ms"/>
+<rect class="bar" x="396" y="91" width="22.9" height="3" rx="1.5" style="fill:#00ADD8;animation-delay:470ms"/>
 </g>
 <g class="fade" style="animation-delay:390ms">
 <circle cx="205" cy="108" r="5" style="fill:#4F5D95"/>
 <text x="217" y="112" class="label" style="fill:var(--text)">PHP</text>
 <text x="217" y="126" class="sub" font-size="10.5">15.6%</text>
 <rect x="256" y="121" width="60" height="3" rx="1.5" style="fill:var(--track)"/>
-<rect class="bar" x="256" y="121" width="19.8" height="3" rx="1.5" style="fill:#4F5D95;animation-delay:540ms"/>
+<rect class="bar" x="256" y="121" width="19.7" height="3" rx="1.5" style="fill:#4F5D95;animation-delay:540ms"/>
 </g>
 <g class="fade" style="animation-delay:460ms">
 <circle cx="345" cy="108" r="5" style="fill:#f7523f"/>
